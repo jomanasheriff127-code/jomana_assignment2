@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fa;
+  padding: 30px;
+}
+
+h1 {
+  color: #176b4d;
+}
+
+.stock-line {
+  padding: 15px;
+  color: #222222;
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #176b4d;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
